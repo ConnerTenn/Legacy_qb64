@@ -1,0 +1,23 @@
+CLS
+SCREEN 0
+COLOR 4, 4
+PRINT "@";
+COLOR 2, 2
+PRINT "@";
+COLOR 1, 1
+PRINT "@"
+
+COLOR 4, 4
+PRINT "@";
+COLOR 2, 2
+PRINT "@";
+COLOR 1, 1
+PRINT "@"
+
+COLOR 4, 4
+PRINT "@";
+COLOR 2, 2
+PRINT "@";
+COLOR 1, 1
+PRINT "@"
+

@@ -1,0 +1,127 @@
+CLS
+SCREEN 0
+
+
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " "
+
+
+
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 4, 4
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " "
+
+
+
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 4, 4
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " ";
+
+COLOR 11, 11
+PRINT " "
+
+
+
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " "
+
+
+
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " ";
+
+COLOR 2, 2
+PRINT " "
+
+
+
+
+COLOR 15, 0
+
